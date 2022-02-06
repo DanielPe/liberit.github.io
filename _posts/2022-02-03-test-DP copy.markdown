@@ -2,9 +2,9 @@
 layout: post
 read_time: true
 show_date: true
-title:  Test DP en
+title:  Test DP nl
 date:   2022-02-03 13:32:20 -0600
-lang: en
+lang: nl
 ref: testDPLanguage
 description: Just a test.
 img: posts/20220203/abstract_1.jpeg
