@@ -108,7 +108,7 @@ title: Repo Name
 email: your_email@example.com
 author: Your Name
 description: "Repo description"
-baseurl: "/repo-name"
+base-url: "/repo-name"
 url: "https://github-username.github.io"
 ```
 
@@ -122,7 +122,7 @@ Modify ``_config.yml`` file, located in the root directory, with your data.
 title: The Title for Your Website
 description: 'A description of your blog'
 permalink: ':title:output_ext' # how the permalinks will behave
-baseurl: "/" # the subpath of your site, e.g. /blog
+base-url: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "" # the logo for your site
 logo-icon: "" # a smaller logo, typically squared

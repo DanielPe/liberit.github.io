@@ -1,0 +1,44 @@
+config: - jekyll-paginate
+ gem "jekyll-paginate"
+
+Index -> layout home-page	 ->include header.html	->include calculate_relative_base.html
+						->include escape-404.html
+						->include theme-toggle.html
+
+			->include search.html
+			->include pagination.html
+			->include get-site-tags.html
+			->include tag_cloud.html	->include calculate_relative_base.html
+						->include escape-404.html
+			->include footer.html	->include calculate_relative_base.html
+						->include escape-404.html
+
+<!--{% capture languages %}
+          {% for postTrans in postsTrans %}
+            {{postTrans.lang}}
+          {% endfor %}
+        {% endcapture %}
+        {% assign languages_array = languages | split: '::'%}
+        {{ languages_array | uniq }}
+        {% for language in languages_array}
+          <p>for loop: languages_array: {{language}}</p>
+        {% endfor %}-->
+
+<!--Works when there are only two languages involved: it shows the 'other' language-->
+
+{% capture languages %}
+          {% for postTrans in postsTrans %}
+            {{postTrans.lang}}
+            {% if forloop.last == false %}::{% endif%}
+          {% endfor %}
+        {% endcapture %}
+        {% assign languages_array = languages | split: '::'%}
+        
+        {{ languages_array | uniq | join: ' ' }}
+        {% for language in languages_array %}
+          <p>for loop: languages_array: {{language}}</p>
+        {% endfor %}
+
+.lang {
+  font-weight: bold;
+}

@@ -100,6 +100,27 @@ hr {
   overflow: visible; /* 2 */
 }
 
+/* #DP */
+.lang {
+  font-weight: normal;
+  display: flex
+}
+.lang li{
+  padding: 0 7px;
+  list-style: none;
+}
+.lang li a{
+  text-decoration: none;;
+}
+
+.en:lang(en){
+  font-weight: bold;
+}
+
+.nl:lang(nl){
+  font-weight: bold;
+}
+
 /**
  * 1. Correct the inheritance and scaling of font size in all browsers.
  * 2. Correct the odd `em` font sizing in all browsers.

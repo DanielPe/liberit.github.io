@@ -1,0 +1,66 @@
+---
+layout: home-page
+---
+{% include calculate_relative_base.html %}
+
+
+<ol class="post-card-box clearfix">
+  <!-- #DP Language selector -->
+  {% assign posts=site.posts | where:"lang", post.lang %}
+  {% for post in posts %}
+  <li>
+    <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+  </li>
+  {% endfor %}
+  
+  <a href="{{ site.base-url }}{{ post.url }}" class="header__lang header__lang-{{ post.lang }} title=" View in
+  {{post.lang}}" data-lang={{ post.lang }}></a>
+  <!---->
+
+  <!--DP-->
+  {% if page.layout == 'post' %}
+  {% assign paginator.posts=site.post | where:"page.locale", 'nl_NL' %}  <!--#DP-->
+  {% endif %}
+  <!---->
+
+  {% for post in paginator.posts %}
+    {% if post.lang == 'en' %}
+    {% endif %}
+  {% endfor %}
+  
+  <!--DP debug-->
+  {% assign posts=site.posts | where:"lang", "en" %}
+  {% for post in posts %}
+  <li>
+    <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+  </li>
+  {% endfor %}
+  {% assign paginator.posts=posts %}
+  {% for post in paginator.posts %}
+  <li>
+    <a href="{{ post.url }}" class="{{ post.lang }}"></a>
+  </li>
+  {% endfor %}
+  <!--DP debug-->
+
+  {% for post in paginator.posts %}
+  {% include remove_double_slash.html %}
+  
+  <li>
+    <div class="post-card">
+      <!--a href="{{ post_url }}" title="{{ post.title }}" class="post-card-image" style="background: url('{{ relativebase }}assets/img/{{ post.img }}') center no-repeat; background-size: cover;"-->
+      <a href="{{ post_url }}" title="{{ post.title }}" class="post-card-image" style="background: url('{{ relativebase }}assets/img/{{ post.img }}') center no-repeat; background-size: cover;" class="{{ post.lang }}">{{ post.lang }}</a>  <!--#DP-->
+      <div class="post-card-body">
+        <p class="post-card-title-and-meta">
+          
+          <a href="{{ post_url }}" class="post-card-link">
+          {{ post.title }}
+          </a>
+          {% include post_meta.html type="post-card-meta" date="none" %}
+        </p>
+      </div>
+    </div>
+  </li>
+  
+  {% endfor %}
+</ol>

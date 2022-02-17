@@ -32,7 +32,7 @@
 
     {% capture jekyll_toc %}{% endcapture %}
     {% assign orderedList = include.ordered | default: false %}
-    {% assign baseURL = include.base_url | default: include.baseurl | default: '' %}
+    {% assign base-URL = include.base_url | default: include.base-url | default: '' %}
     {% assign skipNoIDs = include.skip_no_ids | default: include.skipNoIDs | default: false %}
     {% assign minHeader = include.h_min | default: 1 %}
     {% assign maxHeader = include.h_max | default: 6 %}
@@ -96,7 +96,7 @@
         {% capture anchorBody %}{% if include.sanitize %}{{ header | strip_html }}{% else %}{{ header }}{% endif %}{% endcapture %}
 
         {% if htmlID %}
-            {% capture anchorAttributes %} href="{% if baseURL %}{{ baseURL }}{% endif %}#{{ htmlID }}"{% endcapture %}
+            {% capture anchorAttributes %} href="{% if base-URL %}{{ base-URL }}{% endif %}#{{ htmlID }}"{% endcapture %}
 
             {% if include.anchor_class %}
                 {% capture anchorAttributes %}{{ anchorAttributes }} class="{{ include.anchor_class | split: '.' | join: ' ' }}"{% endcapture %}

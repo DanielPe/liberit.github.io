@@ -1,8 +1,8 @@
 # Site settings
 title: The Minimum Viable Model
-description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
+description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "base-url:"
 permalink: ':title:output_ext'
-baseurl: "/" # the subpath of your site, e.g. /blog
+base-url: "/"
 url: "https://liberit.com" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/img/branding/MVM-logo-full.svg"
 logo-icon: "/assets/img/branding/MVM-symbol.svg"
@@ -50,7 +50,7 @@ analytics: G-R8SZS2YBZK
 fbadmin: ar.maybach
 
 # Paginate
-paginate: 6
+paginate: 1
 paginate_path: 'page:num'
 words_per_minute: 200
 
@@ -63,6 +63,7 @@ compress_html:
   comments: all
   startings: [html, head, body]
 
+
 # Outputting
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -72,6 +73,29 @@ category_archive:
 
 sass:
   style: compressed
+
+#DP ------
+defaults:
+  -
+    scope:
+        path: ""
+    values:
+        author: "Daniel Peters"
+        layout: post
+        lang: nl
+        base-url: "/"
+  -
+    scope:
+        path: en
+    values:
+        lang: en
+        base-url: "/en/"
+
+# Value to use into url per language
+langs-value:
+    nl: ""
+    en: en
+#-------
 
 plugins:
   - jekyll-paginate

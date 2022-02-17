@@ -1,21 +1,25 @@
 {
   "posts" : [
     
-    "./AI-and-intellectual-property.html",
+    "./test-DP_en.html",
     
-    "./back-to-basics.html",
+    "./test-DP-copy_en.html",
     
-    "./starting-the-adventure.html",
+    "./test-DP.html",
     
-    "./deep-q-learning-tic-tac-toe.html",
+    "./test-DP-copy.html",
+    
+    "./neural-network-optimization-methods_en.html",
     
     "./neural-network-optimization-methods.html",
     
-    "./ML-Library-from-scratch.html",
+    "./jekyll-multilingue.html",
     
-    "./conways-game-of-life.html",
+    "./jekyll-multilingual.html",
     
-    "./single-neuron-perceptron.html"
+    "./hello-world_en.html",
+    
+    "./hello-world.html"
     
   ]
 }
