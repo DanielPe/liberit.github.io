@@ -91,6 +91,13 @@ defaults:
         lang: en
         base-url: "/en/"
 
+#DP -------------
+t:
+    about:
+        nl: "Over ons"
+        en: "About"
+        
+
 # Value to use into url per language
 langs-value:
     nl: ""
@@ -98,7 +105,7 @@ langs-value:
 #-------
 
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate 
   - jekyll-feed
   - jekyll-sitemap
 
