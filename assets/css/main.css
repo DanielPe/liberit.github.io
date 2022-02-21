@@ -846,7 +846,7 @@ svg.menu-icon-house {
 /* = = = = = = = = = = Post-Card (homepage) = = = = = = = = = = */
 .post-card-box {
   margin: 50px 0 15px;
-  padding: 5;
+  padding: 5px;
 }
 .post-card-box li {
   position: relative;
