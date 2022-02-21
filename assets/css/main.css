@@ -566,6 +566,14 @@ svg {
   margin: 0.75em auto 0.75em;
   position: relative;
 }
+
+.wrapperbottom {
+  /* 21022022 #DP toegevoegd om enkel voor de 'wrapper' een border te krijgen en niet een andere tag die ook gebruik maakt van de 'wrapper' css.*/
+  border-bottom: --background;
+  border-bottom-style: solid;
+  border-bottom-width: thin;
+}
+
 ::-moz-selection {
   background: rgba(49, 30, 62, 0.7);
   color: white;
