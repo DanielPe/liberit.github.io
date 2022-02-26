@@ -16,15 +16,20 @@ html {
   --background:   #ffffff;
   --shadow:       rgba(32,30,30,.3);
   --github:       #333;
+  /*--font1: 'Roboto', sans-serif;*//* body text */
   --font1: 'Lora', charter, Georgia, Cambria, 'Times New Roman', Times, serif;/* body text */
-  --font2: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif; /* headers and titles   */
+  /*--font2: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif; /* headers and titles   */
+  --font2: 'Roboto', sans-serif; 
   --font1-light:      200;
   --font1-regular:    400;
   --font1-bold:       600;
   --font2-light:      200;
   --font2-regular:    400;
+  /*--font2-bold:     700;  #DP originele waarde*/
   --font2-bold:       100;
 }
+
+/*#DP originele code --font1: 'Lora', charter, Georgia, Cambria, 'Times New Roman', Times, serif;/* body text */ 
 
 html[data-theme="dark"]  {
   --accent:       #d14c47;    /* accent     */
@@ -426,7 +431,7 @@ html {
     line-height: 1.4;
     letter-spacing: 0.002em;
     /* #DP to set the font-size. Original value:font-size: 1.375rem;*/
-    font-size: 1.2rem;
+     font-size: 1.2rem;
 }
 body {
   font-family: var(--font1);
@@ -896,7 +901,7 @@ svg.menu-icon-house {
 
 .post-card-body {
   position: absolute;
-  left: 3.5%;
+  left: 4%;
   bottom: 5%;
   background-color: #00000099;
   padding-left: 5px;
