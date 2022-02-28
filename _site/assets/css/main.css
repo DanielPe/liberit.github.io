@@ -108,7 +108,8 @@ hr {
 /* #DP */
 .lang {
   font-weight: normal;
-  display: flex
+  display: flex;
+  width: 12.5%;
 }
 .lang li{
   padding: 0 7px;
@@ -673,7 +674,7 @@ svg {
   text-align: left;
 }
 .search-icon-container {
-  width: 25%;
+  width: 12.5%;
   text-align: right;
 }
 svg.menu-icon-house {
