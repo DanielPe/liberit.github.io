@@ -42,8 +42,8 @@
     "logo": {
         "@type": "ImageObject",
         "encodingFormat": "image/png",
-        "contentUrl": "http://localhost:4000/assets/img/branding/MVM-symbol-black.png",
-        "url": "http://localhost:4000/assets/img/branding/MVM-symbol-black.png"},
+        "contentUrl": "http://localhost:4000/assets/img/branding/Workbench logo.png",
+        "url": "http://localhost:4000/assets/img/branding/Workbench logo.png"},
     "name" : "The Workbench"}
 }
 </script>
@@ -229,7 +229,7 @@
       </nav>
       
       
-      <div class="logo"><a href="./"><img class="logo" id="logo" src="./assets/img/branding/Workbench logo.png" alt="The Workbench"></a></div>
+      <div class="logo"><a href="./"><img class="logo" id="logo" src="./assets/img/branding/Workbench logo light.png" alt="The Workbench"></a></div>
       <div class="search-icon-container">
         <span class="search-icon"><a><i class="fa fa-search" aria-hidden="true"></i></a></span>
       </div>
@@ -887,7 +887,7 @@
                 preserveAspectRatio="xMidYMid meet">
                
                <g transform="translate(0,643) scale(0.1,-0.1)"
-               fill="#000000" stroke="none">
+               fill=var(--main) stroke="none">
                <path d="M2440 6144 c-545 -47 -993 -219 -1385 -533 -443 -353 -750 -842 -870
                -1383 -45 -200 -58 -330 -58 -548 0 -218 13 -348 58 -548 79 -355 244 -700
                474 -987 353 -443 842 -750 1383 -870 200 -45 330 -58 548 -58 218 0 348 13
@@ -1006,9 +1006,9 @@
     saveThemeData(themeData);
     html.dataset.theme = nightShift ? 'dark' : 'light';
     if (nightShift) {
-        logo.setAttribute("src", "./assets/img/branding/MVM-logo-full-dark.svg");
+        logo.setAttribute("src", "./assets/img/branding/Workbench logo dark.png");
     } else {
-        logo.setAttribute("src", "./assets/img/branding/Workbench logo.png");
+        logo.setAttribute("src", "./assets/img/branding/Workbench logo light.png");
     }
     setTimeout(function() {
         sw.checked = nightShift ? true : false;
