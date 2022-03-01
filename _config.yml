@@ -23,7 +23,7 @@ logo-icon-SEO: "/assets/img/branding/Workbench logo.png" # must be a non SVG fil
 night_mode: "auto"
 
 #logo-dark: "/assets/img/branding/MVM-logo-full-dark.svg"
-logo-dark: "/assets/img/branding/Workbench logo dark.png"
+logo-dark: "/assets/img/branding/Workbench logo dark Roboto font large.png"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
