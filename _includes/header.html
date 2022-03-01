@@ -72,7 +72,7 @@
         <span class="search-icon"><a><i class="fa fa-search" aria-hidden="true"></i></a></span>
       </div>
       
-      <div class="lang">
+      <div class="lang" style="padding-left: 20px;"> <!--#DP Style toegevoegd-->
         
         {% assign postsTrans=site.posts | where:"DP-link", page.DP-link | sort: 'lang' | reverse %}
         <!--p>assign: postsTrans.size: {{postsTrans.size}}</p>
@@ -103,7 +103,7 @@
         {% for language in languagezz %}
           {% for postTrans in postsTrans %}
             {% if postTrans.lang == {{language}} %} 
-              <li><a class="{{ postTrans.lang }}" href="{{ postTrans.url }}">{{ postTrans.lang }}</a></li>
+              <li style="padding-left: 0px; padding-right: 4px;"><a class="{{ postTrans.lang }}" href="{{ postTrans.url }}">{{ postTrans.lang }}</a></li>
               {% break %}
             {% endif %} 
           {% endfor %}
