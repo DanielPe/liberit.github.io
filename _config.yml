@@ -2,7 +2,7 @@
 title: The Workbench
 description: 'The Workbench as a starting point for interesting journeys.' # this means to ignore newlines until "base-url:"
 permalink: ':title:output_ext'
-base-url: "/"
+base-url: ""
 url: "https://www.liberit.com" # the base hostname & protocol for your site, e.g. http://example.com
 #logo: "/assets/img/branding/MVM-logo-full.svg"
 logo: "/assets/img/branding/Workbench logo light Roboto font large.png"

@@ -10,8 +10,8 @@
   
   <!-- #DP -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&family=Raleway:wght@100;200&family=Roboto:wght@100&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&family=Raleway:wght@100;200&family=Roboto:wght@100&display=swap" rel="stylesheet">
 
   
 
@@ -71,6 +71,13 @@
 	<link rel="stylesheet" href="{{ relativebase }}assets/fonts/font-awesome/css/font-awesome.min.css">
 	<!-- Styles -->
 	<link rel="stylesheet" href="{{ relativebase }}assets/css/main.css">
+
+  <!-- #DP toegevoegd op 02032022 -->
+  {% for postTrans in postsTrans %}
+  <link rel="alternate" hreflang="{{ postTrans.lang }}" href="{{ site.base-url }}{{ postTrans.url }}"/>
+  {% endfor %}
+<!-- ---------------------------- -->
+
 	{% include favicon.html %}
 	{% if page.layout == 'post' %}
 	<link rel="stylesheet" href="{{ relativebase }}assets/css/highlighter/{{ site.highlight_theme }}.css">
