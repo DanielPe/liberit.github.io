@@ -68,9 +68,8 @@
       {% capture logo_url %}{{ relativebase }}{{ site.logo  }}{% endcapture %}
       {% assign logo_url = logo_url | replace: "//", "/" %}
       <div class="logo"><a href="{{ page.base-url }}"><img class="logo" id="logo" src="{{ logo_url }}" alt="{{ site.title }}"></a></div>
-      <!-- #DP {{ relativebase }} -->
-      <!-- #DP 02032022 tijdelijke code -->
-    <p>site.base-url: {{ page.base-url }}</p>
+      <!-- #DP origineel {{ relativebase }} -->
+      
       <div class="search-icon-container">
         <span class="search-icon"><a><i class="fa fa-search" aria-hidden="true"></i></a></span>
       </div>
@@ -78,16 +77,16 @@
       <div class="lang" style="padding-left: 20px;"> <!--#DP Style toegevoegd-->
         
         
-        <!-- #DP uitgeschakeld op 02032022 {% assign postsTrans=site.posts | where:"DP-link", page.DP-link | sort: 'lang' | reverse %}-->
+        <!-- #DP uitgeschakeld op 02032022--> {% assign postsTrans=site.posts | where:"DP-link", page.DP-link | sort: 'lang' | reverse %}
         <!--p>assign: postsTrans.size: {{postsTrans.size}}</p>
         <p>assign: page.DP-link: {{page.DP-link}}</p>
         <p>assign: page.lang: {{page.lang}}</p-->
-        <!-- #DP uitgeschakeld op 02032022{% if postsTrans.size == 0 %}
-          {% assign postsTrans=site.pages | where:"DP-link", page.DP-link | sort: 'lang' | reverse %}-->
+        <!-- #DP uitgeschakeld op 02032022-->{% if postsTrans.size == 0 %}
+          {% assign postsTrans=site.pages | where:"DP-link", page.DP-link | sort: 'lang' | reverse %}
           <!--p>if loop: postsTrans.size: {{postsTrans.size}}</p>
           <p>if loop: page.DP-link: {{page.DP-link}}</p>
           <p>if loop: page.lang: {{page.lang}}</p-->
-        <!-- #DP uitgeschakeld op 02032022{% endif %}-->
+        <!-- #DP uitgeschakeld op 02032022-->{% endif %}
         <!--{% for postTrans in postsTrans %}
           {% if postTrans.lang != page.lang %} 
             <li><a class="{{ postTrans.lang }}" href="{{ site.base-url }}{{ postTrans.url }}">{{ postTrans.lang }}</a></li>
@@ -107,7 +106,7 @@
         {% for language in languagezz %}
           {% for postTrans in postsTrans %}
             {% if postTrans.lang == {{language}} %} 
-            <p>site.base-url: {{ site.base-url }}{{ postTrans.url }}</p>
+            <!-- <p>site.base-url: {{ site.base-url }}{{ postTrans.url }}</p> -->
               <li style="padding-left: 0px; padding-right: 4px;"><a class="{{ postTrans.lang }}" href="{{ site.base-url }}{{ postTrans.url }}">{{ postTrans.lang }}</a></li>
               {% break %}
             {% endif %} 
