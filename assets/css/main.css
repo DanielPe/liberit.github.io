@@ -109,6 +109,7 @@ hr {
 .lang {
   font-weight: normal;
   display: flex;
+  justify-content: flex-end;
   width: 12.5%;
 }
 .lang li{
