@@ -77,16 +77,16 @@
       <div class="lang" style="padding-left: 20px;"> <!--#DP Style toegevoegd-->
         
         
-        <!-- #DP uitgeschakeld op 02032022--> {% assign postsTrans=site.posts | where:"DP-link", page.DP-link | sort: 'lang' | reverse %}
+        {% assign postsTrans=site.posts | where:"DP-link", page.DP-link | sort: 'lang' | reverse %}
         <!--p>assign: postsTrans.size: {{postsTrans.size}}</p>
         <p>assign: page.DP-link: {{page.DP-link}}</p>
         <p>assign: page.lang: {{page.lang}}</p-->
-        <!-- #DP uitgeschakeld op 02032022-->{% if postsTrans.size == 0 %}
+        {% if postsTrans.size == 0 %}
           {% assign postsTrans=site.pages | where:"DP-link", page.DP-link | sort: 'lang' | reverse %}
           <!--p>if loop: postsTrans.size: {{postsTrans.size}}</p>
           <p>if loop: page.DP-link: {{page.DP-link}}</p>
           <p>if loop: page.lang: {{page.lang}}</p-->
-        <!-- #DP uitgeschakeld op 02032022-->{% endif %}
+        {% endif %}
         <!--{% for postTrans in postsTrans %}
           {% if postTrans.lang != page.lang %} 
             <li><a class="{{ postTrans.lang }}" href="{{ site.base-url }}{{ postTrans.url }}">{{ postTrans.lang }}</a></li>
