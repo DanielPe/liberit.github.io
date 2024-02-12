@@ -13,7 +13,7 @@ github:
 mathjax: yes # leave empty or erase to prevent the mathjax javascript from loading
 toc: yes # leave empty or erase for no TOC
 
-DP-link: Een beetje wiskunde
+DP-link: test-DP
 ---
 
 Voor dit schijnbaar klein project in neurale netwerken ... nr 3
