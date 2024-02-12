@@ -16,18 +16,9 @@ toc: yes # leave empty or erase for no TOC
 DP-link: test-DP
 ---
 
-For this so called small project ... ... nr 3
-
-$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
-
-$RC \gt\gt \frac{T_0}{2}$
-
-$RC \lt\lt \frac{T_0}{2}$
-
-$0 \lt t \lt \frac{T_0}{2}$
-
-$\Large V_C=V_m(1-e^\frac{-t}{RC})$
-
-$V_i = V_C + V_R$
-
-$\Large V_R=V_m\,e^\frac{-t}{RC})$
+Sources:
+TomTekTest TTT308: https://www.youtube.com/watch?v=S0Q2lkkZm4c&list=PL2u6aYAXZ0Z-jl04BkYWmXa0rOhtfx6eV&index=5
+TomTekTest TTT309: https://www.youtube.com/watch?v=Klr5sAqj3Vc&list=PL2u6aYAXZ0Z-jl04BkYWmXa0rOhtfx6eV&index=6
+https://tubes.njunis.net/?p=398&lang=en
+Uncle Doug: https://www.youtube.com/watch?v=nNlPgirHP48&t=4s
+Uncle Doug: https://www.youtube.com/watch?v=5jUitplchok
