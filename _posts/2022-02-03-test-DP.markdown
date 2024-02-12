@@ -2,11 +2,11 @@
 layout: post
 read_time: true
 show_date: true
-title:  Test DP nl
+title:  Wiskunde refresh
 date:   2022-02-03 13:32:20 -0600
 
 description: Just a test.
-img: posts/20220203/abstract_1.jpeg
+img: posts/20220203/Chalkboard math.jpeg
 tags: [coding, machine learning, optimization, deep Neural networks]
 author: Daniel Peters
 github:
