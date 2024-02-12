@@ -5,9 +5,9 @@ show_date: true
 title:  Wiskunde refresh
 date:   2022-02-03 13:32:20 -0600
 
-description: Just a test.
-img: posts/20220203/Chalkboard math.jpeg
-tags: [coding, machine learning, optimization, deep Neural networks]
+description: De bedoeling van deze blog is een overzicht bij te houden van het wiskundig traject dat is afgelegd met betrekking tot de wiskundige aspecten gerelateerd aan het audio verhaal.
+img: posts/20220203/Chalkboard math.jpg
+tags: [math, wiskunde, limiet, afgeleide, differentiaal, integraal, cos, sin]
 author: Daniel Peters
 github:
 mathjax: yes # leave empty or erase to prevent the mathjax javascript from loading
