@@ -1,25 +1,13 @@
 {
   "posts" : [
     
+    "./Math-copy.html",
+    
+    "./Tube-Output-Transformer_en.html",
+    
     "./test-DP_en.html",
     
-    "./test-DP-copy_en.html",
-    
-    "./test-DP.html",
-    
-    "./test-DP-copy.html",
-    
-    "./neural-network-optimization-methods_en.html",
-    
-    "./neural-network-optimization-methods.html",
-    
-    "./jekyll-multilingue.html",
-    
-    "./jekyll-multilingual.html",
-    
-    "./hello-world_en.html",
-    
-    "./hello-world.html"
+    "./jekyll-multilingue.html"
     
   ]
 }

@@ -3,20 +3,22 @@
 [   
       
   {
+  "tag" : "afgeleide",
+  "posts" : [
+      
+      "./Math-copy.html"
+      
+    ]
+  } ,
+    
+      
+  {
   "tag" : "coding",
   "posts" : [
       
-      "./test-DP_en.html",
+      "./Tube-Output-Transformer_en.html",
       
-      "./test-DP-copy_en.html",
-      
-      "./test-DP.html",
-      
-      "./test-DP-copy.html",
-      
-      "./neural-network-optimization-methods_en.html",
-      
-      "./neural-network-optimization-methods.html"
+      "./test-DP_en.html"
       
     ]
   } ,
@@ -26,17 +28,29 @@
   "tag" : "deep Neural networks",
   "posts" : [
       
-      "./test-DP_en.html",
+      "./Tube-Output-Transformer_en.html",
       
-      "./test-DP-copy_en.html",
+      "./test-DP_en.html"
       
-      "./test-DP.html",
+    ]
+  } ,
+    
       
-      "./test-DP-copy.html",
+  {
+  "tag" : "differentiaal",
+  "posts" : [
       
-      "./neural-network-optimization-methods_en.html",
+      "./Math-copy.html"
       
-      "./neural-network-optimization-methods.html"
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "limiet",
+  "posts" : [
+      
+      "./Math-copy.html"
       
     ]
   } ,
@@ -46,17 +60,19 @@
   "tag" : "machine learning",
   "posts" : [
       
-      "./test-DP_en.html",
+      "./Tube-Output-Transformer_en.html",
       
-      "./test-DP-copy_en.html",
+      "./test-DP_en.html"
       
-      "./test-DP.html",
+    ]
+  } ,
+    
       
-      "./test-DP-copy.html",
+  {
+  "tag" : "math",
+  "posts" : [
       
-      "./neural-network-optimization-methods_en.html",
-      
-      "./neural-network-optimization-methods.html"
+      "./Math-copy.html"
       
     ]
   } ,
@@ -66,17 +82,19 @@
   "tag" : "optimization",
   "posts" : [
       
-      "./test-DP_en.html",
+      "./Tube-Output-Transformer_en.html",
       
-      "./test-DP-copy_en.html",
+      "./test-DP_en.html"
       
-      "./test-DP.html",
+    ]
+  } ,
+    
       
-      "./test-DP-copy.html",
+  {
+  "tag" : "wiskunde",
+  "posts" : [
       
-      "./neural-network-optimization-methods_en.html",
-      
-      "./neural-network-optimization-methods.html"
+      "./Math-copy.html"
       
     ]
   } 
