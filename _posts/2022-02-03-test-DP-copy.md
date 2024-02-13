@@ -3,7 +3,6 @@ layout: post
 read_time: true
 show_date: true
 title:  Test DP copy nl
-date:   2022-02-03 13:32:20 -0600
 
 description: Just a test.
 img: posts/20210420/rembrandt.jpg
