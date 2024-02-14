@@ -1,0 +1,23 @@
+I""<h1 id="heading-1">Heading 1</h1>
+<h2 id="heading-2">Heading 2</h2>
+<h3 id="heading-3">Heading 3</h3>
+<h4 id="heading-4">Heading 4</h4>
+<h5 id="heading-5">Heading 5</h5>
+<h6 id="heading-6">Heading 6</h6>
+
+<p>Voor dit schijnbaar klein project in neurale netwerken … Math</p>
+
+<p>$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$</p>
+
+<p>$RC \gt\gt \frac{T_0}{2}$</p>
+
+<p>$RC \lt\lt \frac{T_0}{2}$</p>
+
+<p>$0 \lt t \lt \frac{T_0}{2}$</p>
+
+<p>$\Large V_C=V_m(1-e^\frac{-t}{RC})$</p>
+
+<p>$V_i = V_C + V_R$</p>
+
+<p>$\Large V_R=V_m\,e^\frac{-t}{RC})$</p>
+:ET

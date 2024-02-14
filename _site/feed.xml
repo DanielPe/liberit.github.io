@@ -1,9 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-02-13T21:12:59+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Workbench</title><subtitle>The Workbench as a starting point for interesting journeys.</subtitle><author><name>Daniel Peters</name></author><entry xml:lang="nl"><title type="html">Math copy dp</title><link href="http://localhost:4000/Math-copy.html" rel="alternate" type="text/html" title="Math copy dp" /><published>2024-02-13T00:00:00+01:00</published><updated>2024-02-13T00:00:00+01:00</updated><id>http://localhost:4000/Math-copy</id><content type="html" xml:base="http://localhost:4000/Math-copy.html"><![CDATA[<p>Voor dit schijnbaar klein project in neurale netwerken … Math copy</p>]]></content><author><name>Daniel Peters</name></author><category term="math" /><category term="wiskunde" /><category term="limiet" /><category term="afgeleide" /><category term="differentiaal" /><summary type="html"><![CDATA[De bedoeling van deze blog is een overzicht bij te houden van het wiskundig traject dat is afgelegd met betrekking tot de wiskundige aspecten gerelateerd aan het audio verhaal.]]></summary></entry><entry xml:lang="en"><title type="html">Test DP en</title><link href="http://localhost:4000/Tube-Output-Transformer_en.html" rel="alternate" type="text/html" title="Test DP en" /><published>2022-02-03T20:32:20+01:00</published><updated>2022-02-03T20:32:20+01:00</updated><id>http://localhost:4000/Tube-Output-Transformer_en</id><content type="html" xml:base="http://localhost:4000/Tube-Output-Transformer_en.html"><![CDATA[<p>Sources:
-TomTekTest TTT308: https://www.youtube.com/watch?v=S0Q2lkkZm4c&amp;list=PL2u6aYAXZ0Z-jl04BkYWmXa0rOhtfx6eV&amp;index=5
-TomTekTest TTT309: https://www.youtube.com/watch?v=Klr5sAqj3Vc&amp;list=PL2u6aYAXZ0Z-jl04BkYWmXa0rOhtfx6eV&amp;index=6
-https://tubes.njunis.net/?p=398&amp;lang=en
-Uncle Doug: https://www.youtube.com/watch?v=nNlPgirHP48&amp;t=4s
-Uncle Doug: https://www.youtube.com/watch?v=5jUitplchok</p>]]></content><author><name>Daniel Peters</name></author><category term="en" /><category term="coding" /><category term="machine learning" /><category term="optimization" /><category term="deep Neural networks" /><summary type="html"><![CDATA[Just a test.]]></summary></entry><entry xml:lang="en"><title type="html">Test DP en</title><link href="http://localhost:4000/test-DP_en.html" rel="alternate" type="text/html" title="Test DP en" /><published>2022-02-03T20:32:20+01:00</published><updated>2022-02-03T20:32:20+01:00</updated><id>http://localhost:4000/test-DP_en</id><content type="html" xml:base="http://localhost:4000/test-DP_en.html"><![CDATA[<p>For this so called small project … … nr 3</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-02-14T09:35:59+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Workbench</title><subtitle>The Workbench as a starting point for interesting journeys.</subtitle><author><name>Daniel Peters</name></author><entry xml:lang="en"><title type="html">Math refresh</title><link href="http://localhost:4000/Math.html" rel="alternate" type="text/html" title="Math refresh" /><published>2024-02-12T00:00:00+01:00</published><updated>2024-02-12T00:00:00+01:00</updated><id>http://localhost:4000/Math</id><content type="html" xml:base="http://localhost:4000/Math.html"><![CDATA[<p>$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$</p>
+
+<p>$RC \gt\gt \frac{T_0}{2}$</p>
+
+<p>$RC \lt\lt \frac{T_0}{2}$</p>
+
+<p>$0 \lt t \lt \frac{T_0}{2}$</p>
+
+<p>$\Large V_C=V_m(1-e^\frac{-t}{RC})$</p>
+
+<p>$V_i = V_C + V_R$</p>
+
+<p>$\Large V_R=V_m\,e^\frac{-t}{RC})$</p>]]></content><author><name>Daniel Peters</name></author><category term="en" /><category term="math" /><category term="wiskunde" /><category term="limiet" /><category term="afgeleide" /><category term="differentiaal" /><category term="integraal" /><category term="cos" /><category term="sin" /><summary type="html"><![CDATA[De bedoeling van deze blog is een overzicht bij te houden van het wiskundig traject dat is afgelegd met betrekking tot de wiskundige aspecten gerelateerd aan het audio verhaal.]]></summary></entry><entry xml:lang="nl"><title type="html">Wiskunde refresh</title><link href="http://localhost:4000/Wiskunde.html" rel="alternate" type="text/html" title="Wiskunde refresh" /><published>2024-02-12T00:00:00+01:00</published><updated>2024-02-12T00:00:00+01:00</updated><id>http://localhost:4000/Wiskunde</id><content type="html" xml:base="http://localhost:4000/Wiskunde.html"><![CDATA[<h2 id="limieten-en-afgeleiden">Limieten en afgeleiden</h2>
+
+<p>\(\lim\limits_{x \to 2} f(x) = 5\)
+<!--$$\lim\limits_{x \to y}$$--></p>
+
+<p>Voor dit schijnbaar klein project in neurale netwerken … Math</p>
 
 <p>$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$</p>
 
@@ -17,227 +29,4 @@ Uncle Doug: https://www.youtube.com/watch?v=5jUitplchok</p>]]></content><author>
 
 <p>$V_i = V_C + V_R$</p>
 
-<p>$\Large V_R=V_m\,e^\frac{-t}{RC})$</p>]]></content><author><name>Daniel Peters</name></author><category term="en" /><category term="coding" /><category term="machine learning" /><category term="optimization" /><category term="deep Neural networks" /><summary type="html"><![CDATA[Just a test.]]></summary></entry><entry xml:lang="en"><title type="html">Créer un site multilingue avec Jekyll</title><link href="http://localhost:4000/jekyll-multilingue.html" rel="alternate" type="text/html" title="Créer un site multilingue avec Jekyll" /><published>2016-04-16T00:00:00+02:00</published><updated>2016-04-16T00:00:00+02:00</updated><id>http://localhost:4000/jekyll-multilingue</id><content type="html" xml:base="http://localhost:4000/jekyll-multilingue.html"><![CDATA[<p>Certains pourraient penser que, parce que Jekyll est un générateur de site statique, il n’est pas possible de gérer l’internationalisation. Rien n’est plus faux !</p>
-
-<p>En effet, il se peut que cela ne soit pas aussi simple que d’utiliser un framework PHP comme Wordpress par exemple. Mais après avoir utilisé quelques astuces “magiques”, vous serez capable de desservir vos posts et/ou vos pages traduitent dans autant de langues que nécessaires ! Parce que ce problème est bien connu, il est possible de trouver bien d’autres méthodes sur <a href="https://stackoverflow.com">stackoverflow</a> ou d’autres sites orientés dev. La méthode que je souhaite expliquer aujourd’hui est basée sur les <em>dossiers</em>.</p>
-
-<h2 id="une-histoire-de-dossiers">Une histoire de dossiers</h2>
-
-<p>Avant de commencer à parler traduction, il serait bien d’expliquer rapidement comment Jekyll gère les dossiers à l’intérieur de votre projet. Comme détaillé dans la <a href="http://jekyllrb.com/docs/structure/">documentation de Jekyll</a>, il existe deux types de dossiers/fichiers :</p>
-
-<h3 id="les-dossiersfichiers-parsés">Les dossiers/fichiers parsés</h3>
-
-<p>Tout d’abord, ceux qui seront parsés par Jekyll puis, pour certains, rendu à l’utilisateur. Ils commencent toujours par un <code class="language-plaintext highlighter-rouge">_</code> (ex. <code class="language-plaintext highlighter-rouge">_posts</code>, <code class="language-plaintext highlighter-rouge">_layouts</code>, <code class="language-plaintext highlighter-rouge">_includes</code>, <code class="language-plaintext highlighter-rouge">_config.yml</code>). Ils ne seront pas visibles dans l’URL puisque Jekyll ne les révélera pas directement. On peut les imaginer comme des ingrédients utilisés pour préparer un gâteau. La plupart du temps, ils ne seront pas visibles, au contraire du gâteau (pour les premières minutes à la sortie du four en tout cas…)</p>
-
-<h3 id="les-dossiersfichiers-exposés">Les dossiers/fichiers exposés</h3>
-
-<p>Nous avons parlé des dossiers et des fichiers commençant par <code class="language-plaintext highlighter-rouge">_</code>. Bien, toutes les autres ressources, dont le nom ne commence pas par ce caractère, seront tout simplement copiées par Jekyll à l’intérieur de votre site final. Cela peut être les feuilles de style, les polices d’écritures, les images, les fichiers xml, etc. Et que se passe-t-il si on place un fichier parsé (vu au-dessus) à l’intérieur d’un dossier tout simplement exposé ? La ressource (un fichier markdown par exemple) sera rendue à l’intérieur du dossier créé précédemment. Il sera possible d’y accéder via son url (ex. <code class="language-plaintext highlighter-rouge">/wow-such-dossier/2016/03/02/mon-billet.html</code> est un billet placé à l’intérieur du dossier <em>wow-such-dossier</em>).</p>
-
-<p>C’est une fonctionnalité très intéressante pour l’internationalisation d’un site…</p>
-
-<h2 id="réaliser-un-site-international-générique">Réaliser un site international générique</h2>
-
-<p>Traduire un site vers une langue différente de la langue maternelle du concepteur doit être un élément important à penser tôt dans le développement. Si le site est bien préparé pour cela, traduire des pages deviendra aussi simple que de créer un nouveau fichier par langue, contenant les ressources traduites. Le layout reste le même, seules les chaînes incluses changent d’une langue à l’autre.</p>
-
-<p>Dans un site rendu côté serveur, c’est le travail de la logique de créer les vues. <a href="https://symfony.com/">Symfony</a> par exemple  utilise le moteur <a href="http://twig.sensiolabs.org/">twig</a> afin de rendre les vues. Tout ce que vous avez à faire est, d’écrire les layouts, indiquer où placer les ressources traduites puis remplir des fichiers de configuration avec les chaînes afin de voir la magie opérer !</p>
-
-<p>Mais comment le serveur sait qu’un visiteur parle une langue en particulier ?</p>
-
-<p>Tout d’abord, le serveur lit l’entête http ACCEPT_LANGUAGE. Quand cette dernière est définie, elle est sensée indiquer la langue principale du visiteur. Mais que se passe-t’il si le visiteur en question souhaite lire le site dans une autre langue que sa principale ? Il devient nécessaire de le laisser sélectionner la langue voulue en utilisant un bloc <code class="language-plaintext highlighter-rouge">&lt;selct&gt;</code> par exemple.</p>
-
-<p>Il est également possible de décider d’utiliser l’URL, comme ce blogue. Yep, la version française de chaque billet est disponible via le prefix <code class="language-plaintext highlighter-rouge">/fr/</code>. D’autres sites créés un nouveau sous-domaine (virtuel la plupart du temps) par langue. Il suffit alors simplement d’aller sur : <code class="language-plaintext highlighter-rouge">langue.mon-site.com</code>.</p>
-
-<p>Et, voilà tout. Mais tout ceci ne fonctionne que si une machine tourne derrière le client. Et comme on le sait déjà, ce n’est pas le cas avec Jekyll où tout (ou presque) est statique. Alors… comment réaliser cet exploit ?</p>
-
-<h2 id="un-site-web-multilingue-à-la-jekyll">Un site web multilingue “à la Jekyll”</h2>
-
-<p>Ou plus ou moins, “à la Chocanto”. Comme indiqué en introduction, il est possible de trouver de nombreuses méthodes sur Internet, mais je vous montrerais ici comment combiner tout ce que nous avons vu plus haut : l’usage des <strong>dossiers</strong> et les “URLs”.
-Ces deux fonctionnalités combinées forment une manière très simple et puissante de montrer à votre visiteur une page dans sa langue sans pour autant vous offrir un mal de crâne digne des plus beaux lendemains de soirée (bon… il est toujours possible d’avoir un mal de crâne après avoir lu cet article… mais je ne peux pas en être tenu responsable !)</p>
-
-<h3 id="la-structure">La structure</h3>
-
-<p>Notre projet va plus ou moins ressembler à quelque chose comme ça :</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>project/
-	_drafts/
-	_includes/
-	_layouts/
-	_posts/
-    mon-billet-traduit.md
-	_site/
-	en/
-		_posts/
-			my-translated-post.md
-		index.md
-	index.md
-</code></pre></div></div>
-
-<p>Je prendrai ici l’exemple d’un site traduit en anglais (dingue non ?).</p>
-
-<p>Comme vous pouvez le voir, cette structure est très fortement inspirée de celle que vous connaissez déjà (<a href="https://jekyllrb.com/docs/structure/">une structure Jekyll basique</a>) mais avec l’ajout d’un dossier : <code class="language-plaintext highlighter-rouge">en</code>. Notre nouveau dossier, nommé à partir de <a href="http://www.i18nguy.com/unicode/language-identifiers.html">l’identifiant de langue</a> contient tous les fichiers traduisibles (tous les billets, pages, brouillons et autres index.md). Il est même possible de traduire, comme vu au-dessus, le nom du billet (ce qui peut être très important pour qui s’inquiète de son SEO). Donc, chaque fois qu’un nouveau billet est redigé, il suffit juste de créer un nouveau fichier dans le dossier <code class="language-plaintext highlighter-rouge">en/</code> (ou autre selon la/les langue(s) choisie(s)) avec le même chemin puis créer le dossier contenant ce fichier s’il n’existe pas déjà (logique implacable).</p>
-
-<h3 id="front-matter-matters">Front matter, matters</h3>
-
-<p>C’est ce qui rend Jekyll vraiment sympa, et optionnellement ce qui rend cette méthode fonctionnelle… Pour chaque billet ou page rédigé, nous allons créer un identifiant unique. Cet identifiant sera plus tard utilisé pour lier nos pages entre elles afin de pouvoir retrouver les traductions de la page courante. J’ai nommé cette variable <code class="language-plaintext highlighter-rouge">i18n-link</code> parce-que… bah pourquoi pas tient ?</p>
-
-<p>Donc, au final le fichier devrait ressembler à quelque chose comme ça : <code class="language-plaintext highlighter-rouge">_posts/mon-billet-traduit.md</code></p>
-
-<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
-<span class="na">title</span><span class="pi">:</span> <span class="s">Mon billet traduit !</span>
-<span class="na">i18n-link</span><span class="pi">:</span> <span class="s">translated-post</span>
-<span class="nn">---</span>
-
-<span class="s">Hey ! Ça c'est du post traduit ou je m'y connais pas !</span>
-</code></pre></div></div>
-
-<p>Et la version traduite en question : <code class="language-plaintext highlighter-rouge">fr/_posts/my-translated-post.md</code></p>
-
-<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
-<span class="na">title</span><span class="pi">:</span> <span class="s">My translated post !</span>
-<span class="na">i18n-link</span><span class="pi">:</span> <span class="s">translated-post</span>
-<span class="nn">---</span>
-
-<span class="s">Hey ! This is a pretty cool translated post !</span>
-</code></pre></div></div>
-
-<p>Facile non ? Pour chaque nouveau billet créé, il suffit juste de remplacer la valeur de <em>i18n-link</em> par une nouvelle unique.</p>
-
-<p>La traduction fonctionne maintenant parfaitement! Oui oui, vraiment! Si l’on veut avoir accès au billet traduit, il suffit simplement d’ajouter le préfix <code class="language-plaintext highlighter-rouge">/fr/</code> à notre URL! Mais on ne voudrait pas demander à nos chers visiteurs de le faire à la main n’est-ce pas ? Ce serait vraiment super d’avoir un système qui nous génère automatiquement des boutons avec les liens vers les versions traduites de chaque post !</p>
-
-<h3 id="sélectionner-sa-langue">Sélectionner sa langue</h3>
-
-<p>Du coup, traduire des billets, c’est bien. Pouvoir y accéder à partir d’une URL est tout aussi bien. Mais automatiquement afficher les traductions disponibles pour une page and créer ses liens est encore mieux !</p>
-
-<p>Commençons tout simplement par préparer notre code pour le moment :</p>
-
-<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"lang"</span><span class="nt">&gt;</span>
-  <span class="nt">&lt;ul&gt;</span>
-    <span class="nt">&lt;li&gt;</span>FR<span class="nt">&lt;/li&gt;</span>
-    <span class="nt">&lt;li&gt;</span>EN<span class="nt">&lt;/li&gt;</span>
-    <span class="nt">&lt;li&gt;</span>CH<span class="nt">&lt;/li&gt;</span>
-  <span class="nt">&lt;/ul&gt;</span>
-<span class="nt">&lt;/div&gt;</span>
-</code></pre></div></div>
-
-<p>Ok, c’est à peu près ce que l’on souhaite pouvoir générer : une liste des langues disponibles. Chaque langue pointera sur le bon billet traduit. Quelque chose comme <code class="language-plaintext highlighter-rouge">/{langue}/mon-super-billet</code>.</p>
-
-<p>Notre URL sera automatiquement générée et mise à disposition par Jekyll à l’aide de l’attribut <code class="language-plaintext highlighter-rouge">url</code> d’un post. Comme ci-dessous:</p>
-
-<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"lang"</span><span class="nt">&gt;</span>
-  <span class="nt">&lt;ul&gt;</span>
-    <span class="nt">&lt;li&gt;&lt;a</span> <span class="na">class=</span><span class="s">"FR"</span> <span class="na">href=</span><span class="s">"{{ site.base-url }}{{ postFR.url }}"</span><span class="nt">&gt;</span>FR<span class="nt">&lt;/a&gt;&lt;/li&gt;</span>
-    <span class="nt">&lt;li&gt;&lt;a</span> <span class="na">class=</span><span class="s">"EN"</span> <span class="na">href=</span><span class="s">"{{ site.base-url }}{{ postEN.url }}"</span><span class="nt">&gt;</span>EN<span class="nt">&lt;/a&gt;&lt;/li&gt;</span>
-    <span class="nt">&lt;li&gt;&lt;a</span> <span class="na">class=</span><span class="s">"CH"</span> <span class="na">href=</span><span class="s">"{{ site.base-url }}{{ postCH.url }}"</span><span class="nt">&gt;</span>CH<span class="nt">&lt;/a&gt;&lt;/li&gt;</span>
-  <span class="nt">&lt;/ul&gt;</span>
-<span class="nt">&lt;/div&gt;</span>
-</code></pre></div></div>
-
-<p><code class="language-plaintext highlighter-rouge">site.base-url</code> correspond à l’url de base de notre site. Par exemple si la racine de notre site se situe dans un dossier, il faudra placer le chemin vers ce dossier dans cette variable de <a href="https://shopify.github.io/liquid/">liquid</a>.</p>
-
-<p>Nous avons maintenant notre URL pour chaque traduction de notre billet. Il serait bien (sinon requis) de laisser Jekyll trouver lui-même les traductions disponibles pour notre billet.
-Disons que nous n’avons pas traduit notre billet en chinois (parce que le chinois ce n’est facile). Est-ce que l’on aimerait laisser un lien cassé dans notre menu? J’espère que vous avez répondu non. (sinon vous serez brûlé… vif).</p>
-
-<p>Ce que nous allons faire est de trouver toutes les traductions qui proviennent de la même page. Pour ce faire, nous allons enfin utiliser notre variable joliment nommée <code class="language-plaintext highlighter-rouge">i18n-link</code>, que nous avons définie plus tôt. Il devient alors facile de lier nos traductions ensemble.</p>
-
-<div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="nt">assign</span><span class="w"> </span><span class="nv">posts</span><span class="o">=</span><span class="nv">site</span><span class="p">.</span><span class="nv">posts</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">where</span><span class="p">:</span><span class="s2">"i18n-link"</span><span class="p">,</span><span class="w"> </span><span class="nv">page</span><span class="p">.</span><span class="nv">i18n-link</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">sort</span><span class="p">:</span><span class="w"> </span><span class="s1">'lang'</span><span class="w"> </span><span class="p">%}</span>
-</code></pre></div></div>
-
-<p><code class="language-plaintext highlighter-rouge">site.posts</code> contient tous les billets de Jekyll. Nous avons donc juste à chercher les posts dont la valeur de <code class="language-plaintext highlighter-rouge">i18n-link</code> correspond à celle de notre page courante. Il nous faut également être certain que la liste des langues est affichée dans le même ordre pour tous les billets. Pour ce faire, on les trie !</p>
-
-<p>Il est également possible de le faire pour les pages comme ceci :</p>
-
-<div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="kr">if</span><span class="w"> </span><span class="nv">posts</span><span class="p">.</span><span class="nf">size</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="mi">0</span><span class="w"> </span><span class="p">%}</span>
-  <span class="p">{%</span><span class="w"> </span><span class="nt">assign</span><span class="w"> </span><span class="nv">posts</span><span class="o">=</span><span class="nv">site</span><span class="p">.</span><span class="nv">pages</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">where</span><span class="p">:</span><span class="s2">"i18n-link"</span><span class="p">,</span><span class="w"> </span><span class="nv">page</span><span class="p">.</span><span class="nv">i18n-link</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">sort</span><span class="p">:</span><span class="w"> </span><span class="s1">'lang'</span><span class="w"> </span><span class="p">%}</span>
-<span class="p">{%</span><span class="w"> </span><span class="kr">endif</span><span class="w"> </span><span class="p">%}</span>
-</code></pre></div></div>
-
-<p>On peut maintenant librement utiliser notre variable <code class="language-plaintext highlighter-rouge">posts</code>:</p>
-
-<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"lang"</span><span class="nt">&gt;</span>
-  <span class="nt">&lt;ul&gt;</span>
-    {% for post in posts %}
-      <span class="nt">&lt;li&gt;&lt;a</span> <span class="na">class=</span><span class="s">"{{ post.lang }}"</span> <span class="na">href=</span><span class="s">"{{ site.base-url }}{{ post.url }}"</span><span class="nt">&gt;</span>{{ post.lang }}<span class="nt">&lt;/a&gt;&lt;/li&gt;</span>
-    {% endfor %}
-  <span class="nt">&lt;/ul&gt;</span>
-<span class="nt">&lt;/div&gt;</span>
-</code></pre></div></div>
-
-<p>Et voilà tout. Un lien s’affiche alors par traduction de la page courante.</p>
-
-<p>Et parce que je suis de bonne humeur aujourd’hui voici le code complet :</p>
-
-<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{% assign posts=site.posts | where:"i18n-link", page.i18n-link | sort: 'lang' %}
-
-{% if posts.size == 0 %}
-  {% assign posts=site.pages | where:"i18n-link", page.i18n-link | sort: 'lang' %}
-{% endif %}
-
-<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"lang"</span><span class="nt">&gt;</span>
-  <span class="nt">&lt;ul&gt;</span>
-    {% for post in posts %}
-      <span class="nt">&lt;li&gt;&lt;a</span> <span class="na">class=</span><span class="s">"{{ post.lang }}"</span> <span class="na">href=</span><span class="s">"{{ site.base-url }}{{ post.url }}"</span><span class="nt">&gt;</span>{{ post.lang }}<span class="nt">&lt;/a&gt;&lt;/li&gt;</span>
-    {% endfor %}
-  <span class="nt">&lt;/ul&gt;</span>
-<span class="nt">&lt;/div&gt;</span>
-</code></pre></div></div>
-
-<h3 id="configurer-jekyll">Configurer Jekyll</h3>
-
-<p>Nous avons une bonne structure de fichiers et une super liste de traductions pour notre post. Maintenant finalisons notre site traduisible en configurant Jekyll.</p>
-
-<p>On souhaite définir nos variables de configuration selon la traduction actuelle. Grâce à notre technique d’utiliser les dossiers, nous allons pouvoir utiliser ces derniers pour détecter la langue.</p>
-
-<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">defaults</span><span class="pi">:</span>
-    <span class="pi">-</span>
-     <span class="na">scope</span><span class="pi">:</span>
-         <span class="na">path</span><span class="pi">:</span> <span class="s2">"</span><span class="s">"</span>
-     <span class="na">values</span><span class="pi">:</span>
-         <span class="na">author</span><span class="pi">:</span> <span class="s2">"</span><span class="s">moi"</span>
-         <span class="na">layout</span><span class="pi">:</span> <span class="s">monLayout</span>
-         <span class="na">lang</span><span class="pi">:</span> <span class="s">fr</span>
-         <span class="na">base-url</span><span class="pi">:</span> <span class="s2">"</span><span class="s">/"</span>
-    <span class="pi">-</span>
-     <span class="na">scope</span><span class="pi">:</span>
-         <span class="na">path</span><span class="pi">:</span> <span class="s">en</span>
-     <span class="na">values</span><span class="pi">:</span>
-         <span class="na">lang</span><span class="pi">:</span> <span class="s">en</span>
-         <span class="na">base-url</span><span class="pi">:</span> <span class="s2">"</span><span class="s">/en/"</span>
-    <span class="pi">-</span>
-     <span class="na">scope</span><span class="pi">:</span>
-         <span class="na">path</span><span class="pi">:</span> <span class="s">ch</span>
-     <span class="na">values</span><span class="pi">:</span>
-         <span class="na">lang</span><span class="pi">:</span> <span class="s">ch</span>
-         <span class="na">base-url</span><span class="pi">:</span> <span class="s2">"</span><span class="s">/ch/"</span>
-</code></pre></div></div>
-
-<p>Les variables yaml par défaut sont définies par portée. Une portée par langue. C’est dans la portée par défaut, ici <code class="language-plaintext highlighter-rouge">en</code>, que nous définissions toutes nos variables par défaut de notre application. Puis il est juste nécessaire de sucharger ces dernières à l’aide des autres portées. Nos billets obtiendront maintenant leurs variables <code class="language-plaintext highlighter-rouge">lang</code> et <code class="language-plaintext highlighter-rouge">base-url</code> correctement définies selon la traduction en cours.</p>
-
-<h3 id="traduire-les-layouts">Traduire les layouts</h3>
-
-<p>On a vu comment traduire un billet entièrement. Mais comment faire si nous voulons traduire nos layouts ?</p>
-
-<p>Vous voudriez sûrement indiquer dans quelle partie de votre layout se trouveront les chaînes traduites. Pour ce faire, nous allons à nouveau utiliser les variables Liquid. Par exemple :</p>
-
-<div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h1&gt;<span class="p">{{</span><span class="w"> </span><span class="nv">site</span><span class="p">.</span><span class="nv">t</span><span class="p">[</span><span class="s1">'title'</span><span class="p">][</span><span class="nv">page</span><span class="p">.</span><span class="nv">lang</span><span class="p">]</span><span class="w"> </span><span class="p">}}</span>&lt;/h1&gt;
-</code></pre></div></div>
-
-<p>Encore une fois, nous utilisons notre variable <code class="language-plaintext highlighter-rouge">page.lang</code> afin d’obtenir la langue sélectionnée par l’utilisateur puis l’utilisons comment index pour notre traduction.</p>
-
-<p>Enfin, il nous suffit d’ajouter un tableau <code class="language-plaintext highlighter-rouge">site.t</code> à notre fichier de configuration qui contiendra toutes les chaînes traduites à afficher dans les layouts.</p>
-
-<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">t</span><span class="pi">:</span>
-    <span class="na">title</span><span class="pi">:</span>
-        <span class="na">en</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Title"</span>
-        <span class="na">fr</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Titre"</span>
-    <span class="na">subtitle</span><span class="pi">:</span>
-        <span class="na">en</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Subtitle"</span>
-        <span class="na">fr</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Sous-titre"</span>
-</code></pre></div></div>
-
-<h2 id="conclusion">Conclusion</h2>
-
-<p>Vous pouvez maintenant très facilement traduire l’intégralité de votre site Jekyll. Sentez-vous libre de personnaliser les bouts de code de cet article à vos propres besoins.</p>
-
-<p>C’était un article relativement long, et quelques erreurs ont pu passer à travers la moulinette. Vous pouvez, si vous le souhaitez, proposer des corrections à l’aide du bouton GitHub ci-dessous !</p>
-
-<p>Have fun! :D</p>]]></content><author><name>Daniel Peters</name></author><category term="en" /><summary type="html"><![CDATA[Certains pourraient penser que, parce que Jekyll est un générateur de site statique, il n’est pas possible de gérer l’internationalisation. Rien n’est plus faux !]]></summary></entry></feed>
+<p>$\Large V_R=V_m\,e^\frac{-t}{RC})$</p>]]></content><author><name>Daniel Peters</name></author><category term="math" /><category term="wiskunde" /><category term="limiet" /><category term="afgeleide" /><category term="differentiaal" /><category term="integraal" /><category term="cos" /><category term="sin" /><summary type="html"><![CDATA[De bedoeling van deze blog is een overzicht bij te houden van het wiskundig traject dat is afgelegd met betrekking tot de wiskundige aspecten gerelateerd aan het audio verhaal.]]></summary></entry></feed>

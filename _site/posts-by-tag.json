@@ -6,31 +6,21 @@
   "tag" : "afgeleide",
   "posts" : [
       
-      "./Math-copy.html"
+      "./Math.html",
+      
+      "./Wiskunde.html"
       
     ]
   } ,
     
       
   {
-  "tag" : "coding",
+  "tag" : "cos",
   "posts" : [
       
-      "./Tube-Output-Transformer_en.html",
+      "./Math.html",
       
-      "./test-DP_en.html"
-      
-    ]
-  } ,
-    
-      
-  {
-  "tag" : "deep Neural networks",
-  "posts" : [
-      
-      "./Tube-Output-Transformer_en.html",
-      
-      "./test-DP_en.html"
+      "./Wiskunde.html"
       
     ]
   } ,
@@ -40,7 +30,21 @@
   "tag" : "differentiaal",
   "posts" : [
       
-      "./Math-copy.html"
+      "./Math.html",
+      
+      "./Wiskunde.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "integraal",
+  "posts" : [
+      
+      "./Math.html",
+      
+      "./Wiskunde.html"
       
     ]
   } ,
@@ -50,19 +54,9 @@
   "tag" : "limiet",
   "posts" : [
       
-      "./Math-copy.html"
+      "./Math.html",
       
-    ]
-  } ,
-    
-      
-  {
-  "tag" : "machine learning",
-  "posts" : [
-      
-      "./Tube-Output-Transformer_en.html",
-      
-      "./test-DP_en.html"
+      "./Wiskunde.html"
       
     ]
   } ,
@@ -72,19 +66,21 @@
   "tag" : "math",
   "posts" : [
       
-      "./Math-copy.html"
+      "./Math.html",
+      
+      "./Wiskunde.html"
       
     ]
   } ,
     
       
   {
-  "tag" : "optimization",
+  "tag" : "sin",
   "posts" : [
       
-      "./Tube-Output-Transformer_en.html",
+      "./Math.html",
       
-      "./test-DP_en.html"
+      "./Wiskunde.html"
       
     ]
   } ,
@@ -94,7 +90,9 @@
   "tag" : "wiskunde",
   "posts" : [
       
-      "./Math-copy.html"
+      "./Math.html",
+      
+      "./Wiskunde.html"
       
     ]
   } 
