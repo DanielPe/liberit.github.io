@@ -1,0 +1,43 @@
+I"�<h2 id="limieten-en-afgeleiden">Limieten en afgeleiden</h2>
+
+\[\begin{aligned} 
+     \lim\limits_{x \to 2} f(x) = 5 
+\end{aligned}\]
+
+\[\begin{aligned}
+  &amp; \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
+  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
+  &amp; (x_1, \ldots, x_n) \left( \begin{array}{ccc}
+      \phi(e_1, e_1) &amp; \cdots &amp; \phi(e_1, e_n) \\
+      \vdots &amp; \ddots &amp; \vdots \\
+      \phi(e_n, e_1) &amp; \cdots &amp; \phi(e_n, e_n)
+    \end{array} \right)
+  \left( \begin{array}{c}
+      y_1 \\
+      \vdots \\
+      y_n
+    \end{array} \right)
+\end{aligned}\]
+
+\[\lim\limits_{x \to 2} f(x) = 5\]
+
+<p>$\Delta \hat{p}_{i, j} = {\frac {1}{\sigma {\sqrt {2\pi }}}}e^{-{\frac {1}{2}}\left({\frac {x-\mu }{\sigma }}\right)^{2}}$</p>
+
+<p>$x’ = x \sin\phi + z \cos\phi$</p>
+
+<p>Voor dit schijnbaar klein project in neurale netwerken … Math</p>
+
+<p>$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$</p>
+
+<p>$RC \gt\gt \frac{T_0}{2}$</p>
+
+<p>$RC \lt\lt \frac{T_0}{2}$</p>
+
+<p>$0 \lt t \lt \frac{T_0}{2}$</p>
+
+<p>$\Large V_C=V_m(1-e^\frac{-t}{RC})$</p>
+
+<p>$V_i = V_C + V_R$</p>
+
+<p>$\Large V_R=V_m\,e^\frac{-t}{RC})$</p>
+:ET
