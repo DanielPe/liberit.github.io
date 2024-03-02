@@ -1,6 +1,16 @@
 [
   
     {
+      "title"       : "Wiskunde refresh",
+      "category"    : "",
+      "tags"        : "math, wiskunde, limiet, afgeleide, differentiaal, integraal, cos, sin",
+      "url"         : "./Wiskunde-test.html",
+      "date"        : "2024-02-13 00:00:00 +0100",
+      "description" : "De bedoeling van deze blog is een overzicht bij te houden van het wiskundig traject dat is afgelegd met betrekking tot de wiskundige aspecten gerelateerd aan het audio verhaal.",
+      "content"     : "Limieten en afgeleiden Hellingsfunctie = afgeleide functie Voor elke x geeft de afgeleide f’ in het bijbehorende punt de helling van de grafiek de richtingscoëfficiënt van de raaklijn aan de grafiek \\begin{equation} \\lim\\limits_{x \\to 2} f(x) = 5 \\tag{1}\\end{equation}Interessante linksWat is de afgeleide functie?"
+    } ,
+  
+    {
       "title"       : "Math refresh",
       "category"    : "",
       "tags"        : "math, wiskunde, limiet, afgeleide, differentiaal, integraal, cos, sin",
@@ -17,7 +27,7 @@
       "url"         : "./Wiskunde.html",
       "date"        : "2024-02-12 00:00:00 +0100",
       "description" : "De bedoeling van deze blog is een overzicht bij te houden van het wiskundig traject dat is afgelegd met betrekking tot de wiskundige aspecten gerelateerd aan het audio verhaal.",
-      "content"     : "Limieten en afgeleiden Hellingsfunctie = afgeleide functie Voor elke x geeft de afgeleide f’ in het bijbehorende punt de helling van de grafiek de richtingscoëfficiënt van de raaklijn aan de grafiek \\begin{equation} \\lim\\limits_{x \\to 2} f(x) = 5 \\tag{1}\\end{equation}Interessante linksWat is de afgeleide functie?"
+      "content"     : "Limieten en afgeleiden Hellingsfunctie = afgeleide functie Voor elke x geeft de afgeleide f’ in het bijbehorende punt de helling van de grafiek de richtingscoëfficiënt van de raaklijn aan de grafie \\begin{equation} \\lim\\limits_{x \\to 2} f(x) = 5 \\tag{1}\\end{equation}Interessante linksWat is de afgeleide functie?"
     } 
   
 ]

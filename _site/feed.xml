@@ -1,16 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-02-28T07:42:51+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Workbench</title><subtitle>The Workbench as a starting point for interesting journeys.</subtitle><author><name>Daniel Peters</name></author><entry xml:lang="en"><title type="html">Math refresh</title><link href="http://localhost:4000/Math.html" rel="alternate" type="text/html" title="Math refresh" /><published>2024-02-12T00:00:00+01:00</published><updated>2024-02-12T00:00:00+01:00</updated><id>http://localhost:4000/Math</id><content type="html" xml:base="http://localhost:4000/Math.html"><![CDATA[<p>$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$</p>
-
-<p>$RC \gt\gt \frac{T_0}{2}$</p>
-
-<p>$RC \lt\lt \frac{T_0}{2}$</p>
-
-<p>$0 \lt t \lt \frac{T_0}{2}$</p>
-
-<p>$\Large V_C=V_m(1-e^\frac{-t}{RC})$</p>
-
-<p>$V_i = V_C + V_R$</p>
-
-<p>$\Large V_R=V_m\,e^\frac{-t}{RC})$</p>]]></content><author><name>Daniel Peters</name></author><category term="en" /><category term="math" /><category term="wiskunde" /><category term="limiet" /><category term="afgeleide" /><category term="differentiaal" /><category term="integraal" /><category term="cos" /><category term="sin" /><summary type="html"><![CDATA[De bedoeling van deze blog is een overzicht bij te houden van het wiskundig traject dat is afgelegd met betrekking tot de wiskundige aspecten gerelateerd aan het audio verhaal.]]></summary></entry><entry xml:lang="nl"><title type="html">Wiskunde refresh</title><link href="http://localhost:4000/Wiskunde.html" rel="alternate" type="text/html" title="Wiskunde refresh" /><published>2024-02-12T00:00:00+01:00</published><updated>2024-02-12T00:00:00+01:00</updated><id>http://localhost:4000/Wiskunde</id><content type="html" xml:base="http://localhost:4000/Wiskunde.html"><![CDATA[<h2 id="limieten-en-afgeleiden">Limieten en afgeleiden</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-02-29T21:28:47+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Workbench</title><subtitle>The Workbench as a starting point for interesting journeys.</subtitle><author><name>Daniel Peters</name></author><entry xml:lang="nl"><title type="html">Wiskunde refresh</title><link href="http://localhost:4000/Wiskunde-test.html" rel="alternate" type="text/html" title="Wiskunde refresh" /><published>2024-02-13T00:00:00+01:00</published><updated>2024-02-13T00:00:00+01:00</updated><id>http://localhost:4000/Wiskunde%20test</id><content type="html" xml:base="http://localhost:4000/Wiskunde-test.html"><![CDATA[<h2 id="limieten-en-afgeleiden">Limieten en afgeleiden</h2>
 
 <ul>
   <li>Hellingsfunctie = afgeleide functie</li>
@@ -30,19 +18,36 @@
 
 <p>Interessante links</p>
 
-<p><a href="https://www.youtube.com/watch?v=pz_Kpehh6MY">Wat is de afgeleide functie?</a></p>
+<p><a href="https://www.youtube.com/watch?v=pz_Kpehh6MY">Wat is de afgeleide functie?</a></p>]]></content><author><name>Daniel Peters</name></author><category term="math" /><category term="wiskunde" /><category term="limiet" /><category term="afgeleide" /><category term="differentiaal" /><category term="integraal" /><category term="cos" /><category term="sin" /><summary type="html"><![CDATA[De bedoeling van deze blog is een overzicht bij te houden van het wiskundig traject dat is afgelegd met betrekking tot de wiskundige aspecten gerelateerd aan het audio verhaal.]]></summary></entry><entry xml:lang="nl"><title type="html">Wiskunde refresh</title><link href="http://localhost:4000/Wiskunde.html" rel="alternate" type="text/html" title="Wiskunde refresh" /><published>2024-02-12T00:00:00+01:00</published><updated>2024-02-12T00:00:00+01:00</updated><id>http://localhost:4000/Wiskunde</id><content type="html" xml:base="http://localhost:4000/Wiskunde.html"><![CDATA[<h2 id="limieten-en-afgeleiden">Limieten en afgeleiden</h2>
 
-<!---\begin{align}
-  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
-  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\\\\\\\
-  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
-      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\\\\\\\
-      \vdots & \ddots & \vdots \\\\\\\\
-      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
-    \end{array} \right)
-  \left( \begin{array}{c}
-      y_1 \\\\\\\\
-      \vdots \\\\\\\\
-      y_n
-    \end{array} \right)
-\end{align}-->]]></content><author><name>Daniel Peters</name></author><category term="math" /><category term="wiskunde" /><category term="limiet" /><category term="afgeleide" /><category term="differentiaal" /><category term="integraal" /><category term="cos" /><category term="sin" /><summary type="html"><![CDATA[De bedoeling van deze blog is een overzicht bij te houden van het wiskundig traject dat is afgelegd met betrekking tot de wiskundige aspecten gerelateerd aan het audio verhaal.]]></summary></entry></feed>
+<ul>
+  <li>Hellingsfunctie = afgeleide functie</li>
+  <li>Voor elke x geeft de afgeleide f’ in het bijbehorende punt
+    <ul>
+      <li>de helling van de grafiek</li>
+      <li>de richtingscoëfficiënt van de raaklijn aan de grafie</li>
+    </ul>
+  </li>
+</ul>
+
+<p><img src="/assets/img/images/Afgeleide1.png" alt="Afgeleide" /></p>
+
+<p>\begin{equation}
+    \lim\limits_{x \to 2} f(x) = 5 \tag{1}
+\end{equation}</p>
+
+<p>Interessante links</p>
+
+<p><a href="https://www.youtube.com/watch?v=pz_Kpehh6MY">Wat is de afgeleide functie?</a></p>]]></content><author><name>Daniel Peters</name></author><category term="math" /><category term="wiskunde" /><category term="limiet" /><category term="afgeleide" /><category term="differentiaal" /><category term="integraal" /><category term="cos" /><category term="sin" /><summary type="html"><![CDATA[De bedoeling van deze blog is een overzicht bij te houden van het wiskundig traject dat is afgelegd met betrekking tot de wiskundige aspecten gerelateerd aan het audio verhaal.]]></summary></entry><entry xml:lang="en"><title type="html">Math refresh</title><link href="http://localhost:4000/Math.html" rel="alternate" type="text/html" title="Math refresh" /><published>2024-02-12T00:00:00+01:00</published><updated>2024-02-12T00:00:00+01:00</updated><id>http://localhost:4000/Math</id><content type="html" xml:base="http://localhost:4000/Math.html"><![CDATA[<p>$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$</p>
+
+<p>$RC \gt\gt \frac{T_0}{2}$</p>
+
+<p>$RC \lt\lt \frac{T_0}{2}$</p>
+
+<p>$0 \lt t \lt \frac{T_0}{2}$</p>
+
+<p>$\Large V_C=V_m(1-e^\frac{-t}{RC})$</p>
+
+<p>$V_i = V_C + V_R$</p>
+
+<p>$\Large V_R=V_m\,e^\frac{-t}{RC})$</p>]]></content><author><name>Daniel Peters</name></author><category term="en" /><category term="math" /><category term="wiskunde" /><category term="limiet" /><category term="afgeleide" /><category term="differentiaal" /><category term="integraal" /><category term="cos" /><category term="sin" /><summary type="html"><![CDATA[De bedoeling van deze blog is een overzicht bij te houden van het wiskundig traject dat is afgelegd met betrekking tot de wiskundige aspecten gerelateerd aan het audio verhaal.]]></summary></entry></feed>
