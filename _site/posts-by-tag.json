@@ -6,9 +6,7 @@
   "tag" : "afgeleide",
   "posts" : [
       
-      "./Math.html",
-      
-      "./Wiskunde.html"
+      "./Math.html"
       
     ]
   } ,
@@ -18,9 +16,7 @@
   "tag" : "cos",
   "posts" : [
       
-      "./Math.html",
-      
-      "./Wiskunde.html"
+      "./Math.html"
       
     ]
   } ,
@@ -30,9 +26,7 @@
   "tag" : "differentiaal",
   "posts" : [
       
-      "./Math.html",
-      
-      "./Wiskunde.html"
+      "./Math.html"
       
     ]
   } ,
@@ -42,9 +36,7 @@
   "tag" : "integraal",
   "posts" : [
       
-      "./Math.html",
-      
-      "./Wiskunde.html"
+      "./Math.html"
       
     ]
   } ,
@@ -54,9 +46,7 @@
   "tag" : "limiet",
   "posts" : [
       
-      "./Math.html",
-      
-      "./Wiskunde.html"
+      "./Math.html"
       
     ]
   } ,
@@ -66,9 +56,7 @@
   "tag" : "math",
   "posts" : [
       
-      "./Math.html",
-      
-      "./Wiskunde.html"
+      "./Math.html"
       
     ]
   } ,
@@ -78,9 +66,7 @@
   "tag" : "sin",
   "posts" : [
       
-      "./Math.html",
-      
-      "./Wiskunde.html"
+      "./Math.html"
       
     ]
   } ,
@@ -90,9 +76,7 @@
   "tag" : "wiskunde",
   "posts" : [
       
-      "./Math.html",
-      
-      "./Wiskunde.html"
+      "./Math.html"
       
     ]
   } 
