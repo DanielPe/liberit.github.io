@@ -20,7 +20,7 @@ logo-icon-SEO: "/assets/img/branding/Workbench logo.png" # must be a non SVG fil
 # visit (session). Only the dark mode setting is "manual",
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
-night_mode: "auto"
+night_mode: "on"
 
 #logo-dark: "/assets/img/branding/MVM-logo-full-dark.svg"
 logo-dark: "/assets/img/branding/Workbench logo dark Roboto font large.png"
