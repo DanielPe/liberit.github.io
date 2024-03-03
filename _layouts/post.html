@@ -28,15 +28,17 @@ layout: default
           {% include post_meta.html type="post-page-meta" %}
         </div>
 
-        {% include sidebar.html context="post" class="side" id="sidebar" %}
+        <!-- #DP 03032024 sidebar met de links naar LinkedIn, Facebook, ... uitgeschakeld-->
+        {% comment %}{% include sidebar.html context="post" class="side" id="sidebar" %}{% endcomment %}
         {% if page.toc %}{% include sidebar-toc.html %}{% endif %}
         {% include github-button.html %}
         {{page.content | markdownify}}
         {% include sidebar.html context="post" class="inline" id="post-end" %}
     
         <div class="separator"></div>
-        {% include author-box.html %}
-        {% include recent-post.html %}
+         <!-- #DP 03032024 author-box & recent-post uitgeschakeld-->
+        {% comment %}{% include author-box.html %}{% endcomment %}
+        {% comment %}{% include recent-post.html %}{% endcomment %}
         {% include newsletter.html %}
         {% include disqus.html %}
       </div>
