@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-21T06:19:34+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Workbench</title><subtitle>The Workbench as a starting point for interesting journeys.</subtitle><author><name>Daniel Peters</name></author><entry xml:lang="en"><title type="html">Math refresh</title><link href="http://localhost:4000/Math.html" rel="alternate" type="text/html" title="Math refresh" /><published>2024-02-12T00:00:00+01:00</published><updated>2024-02-12T00:00:00+01:00</updated><id>http://localhost:4000/Math</id><content type="html" xml:base="http://localhost:4000/Math.html"><![CDATA[<p>$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-21T06:20:28+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Workbench</title><subtitle>The Workbench as a starting point for interesting journeys.</subtitle><author><name>Daniel Peters</name></author><entry xml:lang="en"><title type="html">Math refresh</title><link href="http://localhost:4000/Math.html" rel="alternate" type="text/html" title="Math refresh" /><published>2024-02-12T00:00:00+01:00</published><updated>2024-02-12T00:00:00+01:00</updated><id>http://localhost:4000/Math</id><content type="html" xml:base="http://localhost:4000/Math.html"><![CDATA[<p>$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$</p>
 
 <p>$RC \gt\gt \frac{T_0}{2}$</p>
 
@@ -41,4 +41,26 @@
 
 <p><a href="https://www.dr-aart.nl/Diffenint-regels-voor-differentieren.html" target="_blank">Regels voor differentiëren: https://www.dr-aart.nl/Diffenint-regels-voor-differentieren.html</a></p>
 
-<p><a href="https://set.kuleuven.be/voorkennis/blik-op-wiskunde/handboekB/afgeleiden/differentiaal_definitie#:~:text=Via%20het%20begrip%20differentiaal%20kunnen,door%20levert%20de%20gekende%20gelijkheid" target="_blank">KU Leuven:  Definitie differentiaal: https://set.kuleuven.be/voorkennis/blik-op-wiskunde/handboekB/afgeleiden/differentiaal_definitie#:~:text=Via%20het%20begrip%20differentiaal%20kunnen,door%20levert%20de%20gekende%20gelijkheid</a></p>]]></content><author><name>Daniel Peters</name></author><summary type="html"><![CDATA[De bedoeling van deze blog is een overzicht bij te houden van het wiskundig traject dat is afgelegd met betrekking tot de wiskundige aspecten gerelateerd aan het audio verhaal.]]></summary></entry></feed>
+<p><a href="https://set.kuleuven.be/voorkennis/blik-op-wiskunde/handboekB/afgeleiden/differentiaal_definitie#:~:text=Via%20het%20begrip%20differentiaal%20kunnen,door%20levert%20de%20gekende%20gelijkheid" target="_blank">KU Leuven:  Definitie differentiaal: https://set.kuleuven.be/voorkennis/blik-op-wiskunde/handboekB/afgeleiden/differentiaal_definitie#:~:text=Via%20het%20begrip%20differentiaal%20kunnen,door%20levert%20de%20gekende%20gelijkheid</a></p>
+
+<h2 id="integralen">Integralen</h2>
+
+<p><img src="/assets/img/posts/20240212/Integraala.jpg" alt="Integraal" /></p>
+
+<p><img src="/assets/img/posts/20240212/Integraalb.jpg" alt="Integraal" /></p>
+
+<p><img src="/assets/img/posts/20240212/Integraalc.jpg" alt="Integraal" /></p>
+
+<p>\begin{equation}
+    O(V) \approx f(x_1) . \Delta x + f(x_2) . \Delta x + … f(x_n) . \Delta x
+\end{equation}</p>
+
+<p>\begin{equation}
+    O(V) = \lim\limits_{\Delta x \to 0}\sum_{k=1}^n f(x_k) . \Delta x = \int_a^b f(x)dx
+\end{equation}</p>
+
+<p><img src="/assets/img/posts/20240212/Integraald.jpg" alt="Integraal" /></p>
+
+<p>\begin{equation}
+    O(V)= \int_a^b f(x)dx
+\end{equation}</p>]]></content><author><name>Daniel Peters</name></author><summary type="html"><![CDATA[De bedoeling van deze blog is een overzicht bij te houden van het wiskundig traject dat is afgelegd met betrekking tot de wiskundige aspecten gerelateerd aan het audio verhaal.]]></summary></entry></feed>
