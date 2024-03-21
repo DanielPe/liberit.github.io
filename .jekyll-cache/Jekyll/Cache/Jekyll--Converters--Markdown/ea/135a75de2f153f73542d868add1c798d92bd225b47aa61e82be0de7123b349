@@ -1,0 +1,56 @@
+I"�<h2 id="limieten-en-afgeleiden">Limieten en afgeleiden</h2>
+
+<ul>
+  <li>Hellingsfunctie = afgeleide functie</li>
+  <li>Voor elke x geeft de afgeleide f’ in het bijbehorende punt
+    <ul>
+      <li>de helling van de grafiek</li>
+      <li>de richtingscoëfficiënt van de raaklijn aan de grafiek</li>
+    </ul>
+  </li>
+</ul>
+
+<p><img src="/assets/img/posts/20240212/Afgeleide.jpg" alt="Afgeleide" /></p>
+
+<p>\begin{equation}
+    Op \ [x,x+h]\  is\  \frac{\Delta y}{\Delta x}=\frac {f(x+h)-f(x)}{h}
+\end{equation}</p>
+
+<ul>
+  <li>Maken we x oneindig klein dan krijgen we de afgeleide f’(x) met
+\begin{equation}
+  f’(x)=\lim\limits_{h \to 0}\frac {f(x+h)-f(x)}{h}
+\end{equation}</li>
+</ul>
+
+<h3 id="bronnen">Bronnen</h3>
+
+<p><a href="https://www.youtube.com/watch?v=pz_Kpehh6MY" target="_blank">Wat is de afgeleide functie? - WiskundeAcademie: https://www.youtube.com/watch?v=pz_Kpehh6MY</a></p>
+
+<p><a href="https://www.dr-aart.nl/Diffenint-regels-voor-differentieren.html" target="_blank">Regels voor differentiëren: https://www.dr-aart.nl/Diffenint-regels-voor-differentieren.html</a></p>
+
+<p><a href="https://set.kuleuven.be/voorkennis/blik-op-wiskunde/handboekB/afgeleiden/differentiaal_definitie#:~:text=Via%20het%20begrip%20differentiaal%20kunnen,door%20levert%20de%20gekende%20gelijkheid" target="_blank">KU Leuven:  Definitie differentiaal: https://set.kuleuven.be/voorkennis/blik-op-wiskunde/handboekB/afgeleiden/differentiaal_definitie#:~:text=Via%20het%20begrip%20differentiaal%20kunnen,door%20levert%20de%20gekende%20gelijkheid</a></p>
+
+<h2 id="integralen">Integralen</h2>
+
+<p><img src="/assets/img/posts/20240212/Integraal_a.jpg" alt="Integraal" /></p>
+
+<p><img src="/assets/img/posts/20240212/Integraal_b.jpg" alt="Integraal" /></p>
+
+<p><img src="/assets/img/posts/20240212/Integraal_c.jpg" alt="Integraal" /></p>
+
+<p>\begin{equation}
+    O(V) \approx f(x_1) . \Delta x + f(x_2) . \Delta x + … f(x_n) . \Delta x
+\end{equation}</p>
+
+<p>\begin{equation}
+    O(V) = \lim\limits_{\Delta x \to 0}\sum_{k=1}^n f(x_k) . \Delta x = \int_a^b f(x)dx
+\end{equation}</p>
+
+<p><img src="/assets/img/posts/20240212/Integraal_d.jpg" alt="Integraal" /></p>
+
+<p>\begin{equation}
+    O(V)= \int_a^b f(x)dx
+\end{equation}</p>
+
+:ET
